@@ -435,6 +435,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | [solution](https://leetcode.com/problems/delete-operation-for-two-strings/solution/) | [C++](0583-Delete-Operation-for-Two-Strings/cpp-0583/) | | |
 | | | | | | |
+| 587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [solution](https://leetcode.com/problems/erect-the-fence/solution/) [题解](https://leetcode-cn.com/problems/erect-the-fence/solution/an-zhuang-zha-lan-by-leetcode/)<br/>[缺：凸包解法整理] | [C++](0587-Erect-the-Fence/cpp-0587/) | | |
+| | | | | | |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [solution](https://leetcode.com/problems/n-ary-tree-preorder-traversal/solution/) | [C++](0589-N-ary-Tree-Preorder-Traversal/cpp-0589/) | | |
 | 590 | [N-ary Tree Postorder Transversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [solution](https://leetcode.com/problems/n-ary-tree-postorder-traversal/solution/) | [C++](0590-N-ary-Tree-Postorder-Transversal/cpp-0590/) | | |
 | | | | | | |
@@ -966,6 +968,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | [无] | [C++](1368-Minimum-Cost-to-Make-at-Least-One-Valid-Path-in-a-Grid/cpp-1368/) | | |
 | 1369 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [无] | [C++](1370-Increasing-Decreasing-String/cpp-1370/) | | |
+| 1371 | [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [无] | [C++](1371-Find-the-Longest-Substring-Containing-Vowels-in-Even-Counts/cpp-1371/) | | |
+| 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [题解](https://leetcode-cn.com/problems/longest-zigzag-path-in-a-binary-tree/solution/er-cha-shu-zhong-de-zui-chang-jiao-cuo-lu-jing-b-2/)<br/>[缺：dp，返回值DFS] | [C++](1372-Longest-ZigZag-Path-in-a-Binary-Tree/cpp-1372/) | | |
 | | | | | | |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [无] | [C++](1374-Generate-a-String-With-Characters-That-Have-Odd-Counts/cpp-1374/) | | |
 | 1375 | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/) | [无] | [C++](1375-Bulb-Switcher-III/cpp-1375/) | | |
@@ -973,6 +977,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1377 | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/) | [无] | [C++](1377-Frog-Position-After-T-Seconds/cpp-1377/) | | |
 | 1378 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [无] | [C++](1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree/cpp-1379/) | | |
+| | | | | | |
+| 1383 | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) | [无] | [C++](1383-Maximum-Performance-of-a-Team/cpp-1383/) | | |
 | | | | | | |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [无] | [C++](1389-Create-Target-Array-in-the-Given-Order/cpp-1389/) | | |
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | [无] | [C++](1390-Four-Divisors/cpp-1390/) | | |
@@ -1010,7 +1016,21 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [无] | [C++](1422-Maximum-Score-After-Splitting-a-String/cpp-1422/) | | |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [无] | [C++](1423-Maximum-Points-You-Can-Obtain-from-Cards/cpp-1423/) | | |
 | 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | [无] | [C++](1424-Diagonal-Traverse-II/cpp-1424/) | | |
-| 1425 | [Constrained Subset Sum](https://leetcode.com/problems/constrained-subset-sum/) | [无] | [c++](1425-Constrained-Subset-Sum/cpp-1425/) | | |
+| 1425 | [Constrained Subset Sum](https://leetcode.com/problems/constrained-subset-sum/) | [无] | [C++](1425-Constrained-Subset-Sum/cpp-1425/) | | |
+| 1426 | [Counting Elements](https://leetcode.com/problems/counting-elements/) | [solution](https://leetcode.com/problems/counting-elements/solution/) | [C++](1426-Counting-Elements/cpp-1426/) | | |
+| 1427 | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [solution](https://leetcode.com/problems/perform-string-shifts/solution/) | [C++](1427-Perform-String-Shifts/cpp-1427/) | | |
+| 1428 | [Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/) | [solution](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/solution/) | [C++](1428-Leftmost-Column-with-at-Least-a-One/cpp-1428/) | | |
+| 1429 | [First Unique Number](https://leetcode.com/problems/first-unique-number/) | [solution](https://leetcode.com/problems/first-unique-number/) | [C++](1429-First-Unique-Number/cpp-1429/) | | |
+| 1430 | [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/) | [无] | [C++](1430-Check-If-a-String-Is-a-Valid-Sequence-from-Root-to-Leaves-Path-in-a-Binary-Tree/cpp-1430/) | | |
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [无] | [C++](1431-Kids-With-the-Greatest-Number-of-Candies/cpp-1431/) | | |
+| 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | [无] | [C++](1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/cpp-1432/) | | |
+| 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) | [无] | [C++](1433-Check-If-a-String-Can-Break-Another-String/cpp-1433/) | | |
+| 1434 | [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | [无] | [C++](1434-Number-of-Ways-to-Wear-Different-Hats-to-Each-Other/cpp-1434/) | | |
+| | | | | | |
+| 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [无] | [C++](1436-Destination-City/cpp-1436/) | | |
+| 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [无] | [C++](1437-Check-If-All-1s-Are-at-Least-Length-K-Places-Away/cpp-1437/)| | |
+| 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [无] | [C++](1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit/cpp-1438/) | | |
+| 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | [无] | [C++](1439-Find-the-Kth-Smallest-Sum-of-a-Matrix-With-Sorted-Rows/cpp-1439/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
@@ -1030,4 +1050,6 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | LCP11 | [期望个数统计](https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji/) | [题解](https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji/solution/qi-wang-ge-shu-tong-ji-qi-wang-ji-suan-yu-zheng-mi/) | [C++](LCP11-qi-wang-ge-shu-tong-ji/cpp-LCP11/) | | |
 | LCP12 | [小张刷题计划](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/) | [题解](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/solution/xiao-zhang-shua-ti-ji-hua-er-fen-cha-zhao-by-leetc/) | [C++](LCP12-xiao-zhang-shua-ti-ji-hua/cpp-LCP12/) | | |
 | LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | [题解](https://leetcode-cn.com/problems/xun-bao/solution/xun-bao-bfs-dp-by-leetcode-solution/) | [C++](LCP13-xun-bao/cpp-LCP13/) | | |
-| | | | | | |
+| LCP14 | [切分数组](https://leetcode-cn.com/problems/qie-fen-shu-zu/) | [题解](https://leetcode-cn.com/problems/qie-fen-shu-zu/solution/qie-fen-shu-zu-zhi-shu-shai-dp-by-leetcode-solutio/) | [C++](LCP14-qie-fen-shu-zu/cpp-LCP14/) | | |
+| LCP15 | [游乐园的迷宫](https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong/) | [题解](https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong/solution/you-le-yuan-de-mi-gong-tan-xin-si-lu-by-leetcode-s/) | [C++](LCP15-you-le-yuan-de-mi-gong/cpp-LCP15/) | | |
+| LCP16 | [游乐园的游览计划](https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua/) | [题解](https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua/solution/you-le-yuan-de-you-lan-ji-hua-tu-lun-jie-xi-by-l-2/) | [C++](LCP16-you-le-yuan-de-you-lan-ji-hua/cpp-LCP16/) | | |
