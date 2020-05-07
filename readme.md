@@ -777,6 +777,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [无] | [C++](1079-Letter-Tile-Possibilities/cpp-1079/) | | |
 | 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [无] | [C++](1080-Insufficient-Nodes-in-Root-to-Leaf-Paths/cpp-1080/) | | |
 | | | | | | |
+| 1087 | [Brace Expansion](https://leetcode.com/problems/brace-expansion/) | [无] | [C++](1087-Brace-Expansion/cpp-1087/) | | |
+| | | | | | |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [无] | [C++](1089-Duplicate-Zeros/cpp-1089/) | | |
 | 1090 | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/) | [无] | [C++](1090-Largest-Values-From-Labels/cpp-1090/) | | |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [无] | [C++](1091-Shortest-Path-in-Binary-Matrix/cpp-1091/) | | |
@@ -911,6 +913,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1240 | [Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | [无] | [C++](1240-Tiling-a-Rectangle-with-the-Fewest-Squares/cpp-1240/) | | |
 | | | | | | |
 | 1243 | [Array Transformation](https://leetcode.com/problems/array-transformation/) | [无] | [C++](1243-Array-Transformation/cpp-1243/) | | |
+| 1244 | [Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/) | [无] | [C++](1244-Design-A-Leaderboard/cpp-1244/) | | |
 | | | | | | |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [solution](https://leetcode.com/problems/shift-2d-grid/solution/) | [C++](1260-Shift-2D-Grid/cpp-1260/) | | |
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/contest/weekly-contest-163/problems/find-elements-in-a-contaminated-binary-tree/) | [C++](1261-Find-Elements-in-a-Contaminated-Binary-Tree/cpp-1261/) | | | |
@@ -933,6 +936,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [solution](https://leetcode.com/problems/remove-palindromic-subsequences/solution/) | [C++](1332-Remove-Palindromic-Subsequences/cpp-1332/) | | |
 | 1333 | [Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | [无] | [C++](1333-Filter-Restaurants-by-Vegan-Friendly-Price-and-Distance/cpp-1333/) | | |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [无] | [C++](1334-Find-the-City-With-the-Smallest-Number-of-Neighbors-at-a-Threshold-Distance/cpp-1334/) | | |
+| 1335 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | [无] | [C++](1335-Minimum-Difficulty-of-a-Job-Schedule/cpp-1335/) | | |
 | | | | | | |
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [solution](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/solution/) | [C++](1337-The-K-Weakest-Rows-in-a-Matrix/cpp-1337/) | | |
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [solution](https://leetcode.com/problems/reduce-array-size-to-the-half/solution/) | [C++](1338-Reduce-Array-Size-to-The-Half/cpp-1338/) | | |
