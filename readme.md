@@ -356,6 +356,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) | [无] | [C++](0398-Random-Pick-Index/cpp-0398/) | | |
 | | | | | | |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [无] | [C++](0401-Binary-Watch/cpp-0401/) | | |
+| 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [solution](https://leetcode.com/problems/remove-k-digits/solution/) [题解](https://leetcode-cn.com/problems/remove-k-digits/solution/yi-diao-kwei-shu-zi-by-leetcode/) | [C++](0402-Remove-K-Digits/cpp-0402/) | | |
 | | | | | | |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [无] | [C++](0404-Sum-of-Left-Leaves/cpp-0404/) | | |
 | | | | | | |
@@ -435,6 +436,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [solution](https://leetcode.com/problems/array-partition-i/solution/) | [C++](0561-Array-Partition-I/cpp-0561/) | | |
 | | | | | | |
 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [solution](https://leetcode.com/problems/binary-tree-tilt/solution/) | [C++](0563-Binary-Tree-Tilt/cpp-0563/) | | |
+| | | | | | |
+| 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [solution](https://leetcode.com/problems/permutation-in-string/solution/) [题解](https://leetcode-cn.com/problems/permutation-in-string/solution/zi-fu-chuan-de-pai-lie-by-leetcode/) | [C++](0567-Permutation-in-String/cpp-0567/) | | |
 | | | | | | |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [solution](https://leetcode.com/problems/subtree-of-another-tree/solution/) | [C++](0572-Subtree-of-Another-Tree/cpp-0572/) | | |
 | | | | | | |
@@ -925,6 +928,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1262 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | [无] | [C++](1262-Greatest-Sum-Divisible-by-Three/cpp-1262/) | | |
 | 1263 | [Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) | [无] | [C++](1263-Minimum-Moves-to-Move-a-Box-to-Their-Target-Location/cpp-1263/) | | |
 | | | | | | |
+| 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [题解](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/solution/tong-ji-quan-wei-1-de-zheng-fang-xing-zi-ju-zhen-2/) | [C++](1277-Count-Square-Submatrices-with-All-Ones/cpp-1277/) | | |
+| | | | | | |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [无] | [C++](1304-Find-N-Unique-Integers-Sum-up-to-Zero/cpp-1304/) | | |
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [无] | [C++](1305-All-Elements-in-Two-Binary-Search-Trees/cpp-1305/) | | |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [无] | [C++](1306-Jump-Game-III/cpp-1306/) | | |
@@ -1054,6 +1059,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1451 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | [无] | [C++](1451-Rearrange-Words-in-a-Sentence/cpp-1451/) | | |
 | 1452 | [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | [无] | [C++](1452-People-Whose-List-of-Favorite-Companies-Is-Not-a-Subset-of-Another-List/cpp-1452/) | | |
 | 1453 | [Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/) | [无]<br/>[缺：[Angular Sweep](https://www.geeksforgeeks.org/angular-sweep-maximum-points-can-enclosed-circle-given-radius/)] | [C++](1453-Maximum-Number-of-Darts-Inside-of-a-Circular-Dartboard/cpp-1453/) | | |
+| 1454 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [无] | [C++](1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence/cpp-1455/) | | |
+| 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [无] | [C++](1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length/cpp-1456/) | | |
+| 1457 | [Pseudo Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [无] | [C++](1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree/) | | |
+| 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [无] | [C++](1458-Max-Dot-Product-of-Two-Subsequences/cpp-1458/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
