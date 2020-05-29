@@ -300,7 +300,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | | | | | | |
 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) | [缺：BIT] | [C++](0307-Range-Sum-Query-Mutable/cpp-0307/) | | |
 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | | [C++](0308-Range-Sum-Query-2D-Mutable/cpp-0308/) | | |
-| 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | | [C++](0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/cpp-0309/) | | |
+| 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/solution/) | [C++](0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/cpp-0309/) | | |
 | | | | | | |
 | 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [solution](https://leetcode.com/problems/burst-balloons/solution/) [题解](https://leetcode-cn.com/problems/burst-balloons/solution/chuo-qi-qiu-by-leetcode/) | [C++](0312-Burst-Balloons/cpp-0312/) | | |
 | | | | | | |
@@ -401,6 +401,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) | [solution](https://leetcode.com/problems/matchsticks-to-square/solution/) | [C++](0473-Matchsticks-to-Square/cpp-0473/) | | |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) | [solution](https://leetcode.com/problems/ones-and-zeroes/solution/) | [C++](0474-Ones-and-Zeroes/cpp-0474/) | | |
 | | | | | | |
+| 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [solution](https://leetcode.com/problems/total-hamming-distance/solution/) [题解](https://leetcode-cn.com/problems/total-hamming-distance/solution/yi-ming-ju-chi-zong-he-by-leetcode/) | [C++](477-Total-Hamming-Distance/cpp-477/) | | |
 | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/) | [solution](https://leetcode.com/problems/generate-random-point-in-a-circle/solution/) | [C++](0478-Generate-Random-Point-in-a-Circle/cpp-0478/) | | |
 | | | | | | |
 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [无]<br/>[缺：双数据结构] | [C++](0480-Sliding-Window-Median/cpp-0480/) | | |
@@ -421,6 +422,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | [solution](https://leetcode.com/problems/super-washing-machines/solution/) | [C++](0517-Super-Washing-Machines/cpp-0517/) | | |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | [无] | [C++](0518-Coin-Change-2/cpp-0518/) | | |
 | 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) | [solution](https://leetcode.com/problems/random-flip-matrix/solution/) | [C++](0519-Random-Flip-Matrix/cpp-0519/) | | |
+| | | | | | |
+| 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [solution](https://leetcode.com/problems/contiguous-array/solution/) [题解](https://leetcode-cn.com/problems/contiguous-array/solution/lian-xu-shu-zu-by-leetcode/) | [C++](0525-Contiguous-Array/cpp-0525/) | | |
 | | | | | | |
 | 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) | [solution](https://leetcode.com/problems/random-pick-with-weight/solution/) | [C++](0528-Random-Pick-with-Weight/cpp-0528/) | | |
 | 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | [无] | [C++](0529-Minesweeper/cpp-0529/) | | |
