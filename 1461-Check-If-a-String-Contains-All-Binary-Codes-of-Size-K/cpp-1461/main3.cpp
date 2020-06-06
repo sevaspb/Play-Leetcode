@@ -3,12 +3,12 @@
 /// Time   : 2020-05-30
 
 #include <iostream>
-#include <unordered_set>
+#include <vector>
 
 using namespace std;
 
 
-/// HashSet. key type: Integer
+/// HashSet. Using array
 /// Time Complexity: O(|s|)
 /// Space Complexity: O(1 << k)
 class Solution {
@@ -19,13 +19,15 @@ public:
         for(int i = 0; i < k - 1; i ++)
             cur = 2 * cur + (s[i] == '1');
 
-        unordered_set<int> set;
+        vector<bool> used(1 << k, false);
         for(int i = k - 1; i < s.size(); i ++){
             cur = cur * 2 + (s[i] == '1');
-            set.insert(cur);
+            used[cur] = true;
             cur &= ~(1 << (k - 1));
         }
-        return set.size() == (1 << k);
+
+        for(int e: used) if(!e) return false;
+        return true;
     }
 };
 

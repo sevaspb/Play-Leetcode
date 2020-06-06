@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.16)
-project(B)
+project(A)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(B main3.cpp)
+add_executable(A main2.cpp)
