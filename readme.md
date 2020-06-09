@@ -1078,6 +1078,10 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | [无] | [C++](1467-Probability-of-a-Two-Boxes-Having-The-Same-Number-of-Distinct-Balls/cpp-1467/) | | |
 | 1468 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | 1469 | [Find All the Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) | [无] | [C++](1469-Find-All-the-Lonely-Nodes/cpp-1469/) | | |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [无] | [C++](1470-Shuffle-the-Array/cpp-1470/) | | |
+| 1471 | [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [无] | [C++](1471-The-k-Strongest-Values-in-an-Array/cpp-1471/) | | |
+| 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [无] | [C++](1472-Design-Browser-History/cpp-1472/) | | |
+| 1473 | [Paint House III](https://leetcode.com/problems/paint-house-iii/) | [无] | [C++](1473-Paint-House-III/cpp-1473/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
