@@ -1083,6 +1083,16 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [无] | [C++](1472-Design-Browser-History/cpp-1472/) | | |
 | 1473 | [Paint House III](https://leetcode.com/problems/paint-house-iii/) | [无] | [C++](1473-Paint-House-III/cpp-1473/) | | |
 | | | | | | |
+| 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [无] | [C++](1475-Final-Prices-With-a-Special-Discount-in-a-Shop/cpp-1475/) | | |
+| 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [无] | [C++](1476-Subrectangle-Queries/cpp-1476/) | | |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [无] | [C++](1477-Find-Two-Non-overlapping-Sub-arrays-Each-With-Target-Sum/cpp-1477/) | | |
+| 1478 | [Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes/) | [无] | [C++](1478-Allocate-Mailboxes/cpp-1478/) | | |
+| 1479 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [无] | [C++](1480-Running-Sum-of-1d-Array/cpp-1480/) | | |
+| 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [无] | [C++](1481-Least-Number-of-Unique-Integers-after-K-Removals/cpp-1481/) | | |
+| 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [无] | [C++](1482-Minimum-Number-of-Days-to-Make-m-Bouquets/cpp-1482/) | | |
+| 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [无] | [C++](1483-Kth-Ancestor-of-a-Tree-Node/cpp-1483/) | | |
+| | | | | | |
 
 ## 力扣中文站比赛
 
