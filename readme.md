@@ -782,6 +782,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [无] | [C++](1046-Last-Stone-Weight/cpp-1046/) | | |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [无] | [C++](1047-Remove-All-Adjacent-Duplicates-In-String/cpp-1047/) | | |
 | | | | | | |
+| 1062 | [Longest Repeating Substring](https://leetcode.com/problems/longest-repeating-substring/) | [无] | [C++](1062-Longest-Repeating-Substring/cpp-1062/) | | |
+| | | | | | |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [无] | [C++](1072-Flip-Columns-For-Maximum-Number-of-Equal-Rows/cpp-1072/) | | |
 | | | | | | |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [无] | [C++](1078-Occurrences-After-Bigram/cpp-1078/) | | |
@@ -1092,6 +1094,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [无] | [C++](1481-Least-Number-of-Unique-Integers-after-K-Removals/cpp-1481/) | | |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [无] | [C++](1482-Minimum-Number-of-Days-to-Make-m-Bouquets/cpp-1482/) | | |
 | 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [无] | [C++](1483-Kth-Ancestor-of-a-Tree-Node/cpp-1483/) | | |
+| | | | | | |
+| 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | [无] | [C++](1488-Avoid-Flood-in-The-City/cpp-1488/) | | |
+| 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | [无] | [C++](1489-Find-Critical-and-Pseudo-Critical-Edges-in-Minimum-Spanning-Tree/cpp-1489/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
